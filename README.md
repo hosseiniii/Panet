@@ -14,10 +14,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [F
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/hosseiniii/fluttery-todo.git
+$ git clone https://github.com/hosseiniii/Panet.git
 
 # Go into the repository
-$ cd fluttery-todo
+$ cd Panet
 
 # Install dependencies
 $ flutter packages get
